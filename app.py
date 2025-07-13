@@ -1,3 +1,4 @@
+import flask
 from flask import Flask, request, render_template
 import torch
 from torchvision import models, transforms
